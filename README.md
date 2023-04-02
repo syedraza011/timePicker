@@ -1,3 +1,7 @@
+"""
+THings to remeber had to update date and time into text type since supabase is very specific and was giving hard time so changes types to string and converted date return and Time to string then it was pushed
+
+""" 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
